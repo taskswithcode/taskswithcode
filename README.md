@@ -6,6 +6,6 @@
 
  - [![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg)](https://www.taskswithcode.com/salient_object_detection/) -   _**Free APIs** for tasks using SOTA models (with permissive licenses). Please use for evaluation only to avoid overwhelming servers_
  
- - [![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)](https://taskswithcode.com/sentence_similarity/) - _demo apps hosted on [TWC servers](https://taskswithcode.com/sentence_similarity) or on [HuggingFace](https://huggingface.co/spaces/taskswithcode/semantic_similarity)_
+ - [![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)](https://taskswithcode.com/sentence_similarity/) - _demo apps hosted on [TWC servers](https://taskswithcode.com/sentence_similarity) or on [Hugging Face](https://huggingface.co/spaces/taskswithcode/semantic_similarity)_
  - [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://github.com/taskswithcode/latent-diffusion/blob/main/TWCLatentDiffusion.ipynb) - _notebooks in Google colab_
  - [![Explorations](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCExplorations.svg)](https://github.com/taskswithcode/latent-diffusion/blob/main/TWCLatentDiffusion.ipynb) - _Github repos with experiments that are work in progress_
