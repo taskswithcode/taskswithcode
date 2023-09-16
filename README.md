@@ -25,7 +25,7 @@ However, the vast majority of them have not enabled sponsorship yet.  At this po
  -  [![Social](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCSocial.svg)](https://twitter.com/TasksWithCode) - [Twitter](https://twitter.com/TasksWithCode), [Sigmoid Social](https://sigmoid.social/@twc), [Threads](https://www.threads.net/@taskswithcode)
 
 #### Support for open research & education
-- Platinum level supporter for [Sigmoid Social](https://sigmoid.social/about) - a Mastodon instance for people researching, working on, or just interested in AI
+- Platinum level supporter of [Sigmoid Social](https://sigmoid.social/about) - a Mastodon instance for people researching, working on, or just interested in AI
 - Supporting NLP News on [Substack](https://substack.com/@taskswithcode)
 - Supporting researchers/practitioners here on Github. _See **"Sponsoring"** block on the left_.
    
