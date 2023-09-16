@@ -1,3 +1,12 @@
+I am a machine learning practitioner supporting open research.
+   
+_Machine learning research fuels the progress in AI we are witnessing today. Researchers and practitioners who contribute to open source are the silent catalysts fueling this rapid growth, while companies largely enjoy the gains from their work._
+
+_Any company that leverages machine learning hopefully,  in good conscience, feels compelled to support researchers & practitioners who  publish code, models/notebooks/apps with permissible licenses, in a tangible way  beyond just attribution for legal compliance_
+
+ Github sponsorship is one way to directly support [these researchers](https://github.com/taskswithcode/sota_researchers_with_published_code)  and practitioners. 
+However, the vast majority of them have not enabled sponsorship yet.  At this point, the only show of support we can offer them is starring their repos. Hopefully more of them will enable [Github sponsorship](https://github.com/sponsors#regions)
+
 # Contributions to Open Research & Education
 
 - [![SOTA Researchers](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/SOTAResearchers.svg)](https://github.com/taskswithcode/sota_researchers_with_published_code) - _Highlighting the work of SOTA reseachers & practitioners who publish code, models, app & notebooks (in some cases) for a paper_
