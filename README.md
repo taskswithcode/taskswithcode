@@ -21,10 +21,11 @@ However, the vast majority of them have not enabled sponsorship yet.  At this po
  - [![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)](https://taskswithcode.com/sentence_similarity/) - _demo apps hosted on [TWC servers](https://taskswithcode.com/sentence_similarity) and/or on [Hugging Face](https://huggingface.co/taskswithcode)_
  - [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://github.com/taskswithcode/latent-diffusion/blob/main/TWCLatentDiffusion.ipynb) - _notebooks in Google colab_
  - [![Explorations](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCExplorations.svg)](https://github.com/taskswithcode/latent-diffusion/blob/main/TWCLatentDiffusion.ipynb) - _Github repos with experiments that are work in progress_
- - [![Newsletters](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNewsletter.svg)](https://taskswithcode.ghost.io/) - _Aperiodic newsletters on [Ghost](https://taskswithcode.ghost.io/) and [Medium](https://medium.com/taskswithcode)_
+ - [![Newsletters](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNewsletter.svg)](https://taskswithcode.ghost.io/) - _Aperiodic posts on [Ghost](https://taskswithcode.ghost.io/) and [Medium](https://medium.com/taskswithcode)_
  -  [![Social](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCSocial.svg)](https://twitter.com/TasksWithCode) - [Twitter](https://twitter.com/TasksWithCode), [Sigmoid Social](https://sigmoid.social/@twc), [Threads](https://www.threads.net/@taskswithcode)
 
-#### Support for open research
+#### Support for open research & education
 - Platinum level suporter for [Sigmoid Social](https://sigmoid.social/about) - a Mastodon instance for people researching, working on, or just interested in AI
+- Supporting NLP News on [Substack](https://substack.com/@taskswithcode)
 - Supporting researchers/practitioners here on Github. _See **"Sponsoring"** block on the left_.
    
