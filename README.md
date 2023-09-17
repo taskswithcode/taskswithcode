@@ -22,7 +22,7 @@ However, the vast majority of them have not enabled sponsorship yet.  At this po
  - [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://github.com/taskswithcode/latent-diffusion/blob/main/TWCLatentDiffusion.ipynb) - _notebooks in Google colab_
  - [![Explorations](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCExplorations.svg)](https://github.com/taskswithcode/latent-diffusion/blob/main/TWCLatentDiffusion.ipynb) - _Github repos with experiments that are work in progress_
  - [![Newsletters](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNewsletter.svg)](https://taskswithcode.ghost.io/) - _Aperiodic posts on [Ghost](https://taskswithcode.ghost.io/) and [Medium](https://medium.com/taskswithcode)_
- -  [![Social](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCSocial.svg)](https://twitter.com/TasksWithCode) - [Twitter](https://twitter.com/TasksWithCode), [Sigmoid Social](https://sigmoid.social/@twc), [Threads](https://www.threads.net/@taskswithcode)
+ -  [![Social](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCSocial.svg)](https://twitter.com/TasksWithCode) - [Twitter](https://twitter.com/TasksWithCode), [Sigmoid Social](https://sigmoid.social/@twc), [Threads](https://www.threads.net/@taskswithcode), [Youtube](https://www.youtube.com/@TWCEditor), [TikTok](https://www.tiktok.com/@twceditor)
 
 #### Support for open research & education
 - Platinum level supporter of [Sigmoid Social](https://sigmoid.social/about) - a Mastodon instance for people researching, working on, or just interested in AI
