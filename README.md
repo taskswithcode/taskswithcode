@@ -27,5 +27,5 @@ However, the vast majority of them have not enabled sponsorship yet.  At this po
 #### Support for open research & education
 - Platinum level supporter of [Sigmoid Social](https://sigmoid.social/about) - a Mastodon instance for people researching, working on, or just interested in AI
 - Supporting NLP News on [Substack](https://substack.com/@taskswithcode)
-- Supporting researchers/practitioners here on Github _(**"Sponsoring"** block on the left)_.
+- Supporting researchers/practitioners here on Github _(see **"Sponsoring"** block/tab on this page )_.
    
