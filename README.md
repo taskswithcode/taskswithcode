@@ -3,8 +3,8 @@
 
 >_Hopefully, any business that leverages machine learning feels compelled, in good conscience, to **directly support** [researchers & practitioners](https://authorswithcode.com)  who  publish code, models/notebooks/apps with permissible licenses permitting commercial use.  Currently, the only obligation a business has when using open source materials with a permissible license is to provide attribution for legal compliance._
 
- Github sponsorship is one way to directly support [them](https://authorswithcode.com). 
-However, the majority of them (~98%) have not enabled sponsorship yet.  At this point, the only show of support we can offer is to star their repos. One goal of this [initiative](https://authorswithcode.com) is to encourage [researchers & practitioners](https://authorswithcode.com) to enable [Github sponsorship](https://github.com/sponsors#regions), allowing us to support them directly.
+ GitHub sponsorship is one way to directly support [them](https://authorswithcode.com). 
+However, the majority of them (~98%) have not enabled sponsorship yet.  At this point, the only show of support we can offer is to star their repos. One goal of this [initiative](https://authorswithcode.com) is to encourage [researchers & practitioners](https://authorswithcode.com) to enable [GitHub sponsorship](https://github.com/sponsors#regions), allowing us to support them directly.
 
 # Contributions to Open Research & Education
 
