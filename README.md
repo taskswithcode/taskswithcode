@@ -10,7 +10,7 @@ However, the majority of them (~98%) have not enabled sponsorship yet.  At this 
 
 - [![SOTA Researchers](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/SOTAResearchers.svg)](https://authorswithcode.com) - _Highlighting the work of SOTA reseachers & practitioners who publish code, models, app & notebooks (in some cases) for a paper_
 
-- [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https:conceptswithcode.com) - _ML concepts explained, accompanied by a notebook and a code walkthrough_
+- [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://conceptswithcode.com) - _ML concepts explained, accompanied by a notebook and a code walkthrough_
 
   
 - [![Discover and Compare SOTA models](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCCompare.svg)](https://taskswithcode.com/find_sota_repos/) - _Discover and compare SOTA solutions for tasks with a few keystrokes/clicks_
