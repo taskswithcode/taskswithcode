@@ -1,7 +1,7 @@
 
 >_Machine learning [researchers and practitioners](https://authorswithcode.com) who contribute to open source are the silent catalysts fueling the rapid growth in AI. However, it is often corporations that reap the majority of the benefits from their work._
 
->_Hopefully, any business that leverages machine learning feels compelled, in good conscience, to **directly support** [researchers & practitioners](https://authorswithcode.com)  who  publish code, models/notebooks/apps with permissible licenses permitting commercial use.  Currently, the only obligation a business has when using open source materials with a permissible license is to provide attribution for legal compliance._
+>_Hopefully, any business that leverages machine learning feels compelled, in good conscience, to **directly support** [researchers & practitioners](https://authorswithcode.com)  who  publish code and models with permissible licenses permitting commercial use.  Currently, the only obligation a business has when using open source materials with a permissible license is to provide attribution for legal compliance._
 
  GitHub sponsorship is one way to directly support [them](https://authorswithcode.com). 
 However, the majority of them (~98%) have not enabled sponsorship yet.  At this point, the only show of support we can offer is to star their repos. One goal of this [initiative](https://authorswithcode.com) is to encourage [researchers & practitioners](https://authorswithcode.com) to enable [GitHub sponsorship](https://github.com/sponsors#regions), allowing us to support them directly.
