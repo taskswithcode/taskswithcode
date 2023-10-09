@@ -1,5 +1,5 @@
 
->_Machine learning [researchers and practitioners](https://authorswithcode.com) who contribute to open source are the silent catalysts fueling the rapid growth in AI. However, it is often corporations that reap the majority of the benefits from their work._
+>_Machine learning [researchers and practitioners](https://authorswithcode.com) who contribute to open source are the **true catalysts** fueling the rapid growth in AI. However, it is often corporations that reap the majority of the benefits from their work._
 
 >_Hopefully, any business that leverages machine learning feels compelled, in good conscience, to **directly support** [researchers & practitioners](https://authorswithcode.com)  who  publish code and models with permissible licenses allowing commercial use.  Currently, the only obligation a business has when using open source materials with a permissible license is to provide attribution for legal compliance._
 
