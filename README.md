@@ -1,5 +1,5 @@
 
-
+### What is the AuthorsWithCode initiative?
 
 > _Machine learning [researchers and practitioners]([https://authorswithcode.com](https://authorswithcode.com/top100/)) contributing to open source are the **true catalysts** fueling the rapid growth in AI. Their contributions have paved the way for innovations across industries, with many corporations benefiting greatly from this open collaboration._
 
@@ -10,10 +10,10 @@ However, the majority of them (~98%) have not enabled sponsorship yet.  At this 
 
 This initiative pursues two primary objectives: 
 - Firstly, to inspire both individuals and businesses to sponsor [researchers and practitioners](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E)
-- Secondly, by encouraging [researchers and practitioners](https://authorswithcode.com/top100/) to activate [GitHub sponsorship](https://github.com/sponsors#regions), we create a direct channel to both reward their work and invest in them.
+- Secondly, by encouraging [researchers and practitioners](https://authorswithcode.com/top100/) to activate [GitHub sponsorship](https://github.com/sponsors#regions), we create a direct channel to both reward their work and invest in them
 
 
-# Contributions to Open Research & Education
+### Contributions to Open Research & Education
 
 - [![SOTA Researchers](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/SOTAResearchers.svg)](https://authorswithcode.com) - _Highlighting the work of SOTA reseachers & practitioners who publish code, models, app & notebooks (in some cases) for a paper_
 
