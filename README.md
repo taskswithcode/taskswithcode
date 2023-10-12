@@ -9,9 +9,10 @@
 However, the majority of them (~98%) have not enabled sponsorship yet.  At this point, all we can do is a symbolic gesture of support by  starring their repos.
 
 This initiative pursues two primary objectives: 
-- Firstly, to inspire both individuals and businesses to sponsor [researchers and practitioners](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E)
-- Secondly, by encouraging [researchers and practitioners](https://authorswithcode.com/top100/) to activate [GitHub sponsorship](https://github.com/sponsors#regions), we create a direct channel to both reward their work and invest in them
+1. To inspire both individuals and businesses to sponsor [researchers and practitioners.](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E)
+2. To create a direct channel for rewarding [researchers and practitioners](https://authorswithcode.com/top100/) and investing in them by encouraging them to activate [GitHub sponsorship](https://github.com/sponsors#regions).
 
+We address both of these objectives with an [app](https://authorswithcode.com) that facilitates the discovery of these researchers and simplifies the process of investing in them.
 
 ### Contributions to Open Research & Education
 
