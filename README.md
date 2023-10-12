@@ -12,11 +12,10 @@ This initiative pursues two primary objectives:
 1. To inspire both individuals and businesses to sponsor [researchers and practitioners.](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E)
 2. To create a direct channel for rewarding [researchers and practitioners](https://authorswithcode.com/top100/) and investing in them by encouraging them to activate [GitHub sponsorship](https://github.com/sponsors#regions).
 
-We address both of these objectives with an [app](https://authorswithcode.com) that facilitates the discovery of these researchers and simplifies the process of investing in them.
+We address both of these objectives with an [app](https://authorswithcode.com)  [![app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAWC.svg)](https://authorswithcode.com) that facilitates the discovery of these researchers and simplifies the process of investing in them.
 
-### Contributions to Open Research & Education
+### Other contributions to Open Research & Education
 
-- [![SOTA Researchers](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/SOTAResearchers.svg)](https://authorswithcode.com) - _Highlighting the work of SOTA reseachers & practitioners who publish code, models, app & notebooks (in some cases) for a paper_
 
 - [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://conceptswithcode.com) - _ML concepts explained, accompanied by a notebook and a code walkthrough_
 
