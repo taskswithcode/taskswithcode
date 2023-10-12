@@ -6,7 +6,12 @@
 > _It's a strategic investment for businesses leveraging machine learning to directly support these [researchers and practitioners](https://authorswithcode.com). Especially those who share code and models with licenses that encourage widespread use. Presently, while use of open source with permissible licenses primarily requires just attribution from companies, businesses can establish their commitment to innovation and progress by actively supporting the vibrant community that propels their advancements._
 
  GitHub sponsorship is one way to directly support [them](https://authorswithcode.com). 
-However, the majority of them (~98%) have not enabled sponsorship yet.  At this point, the only show of support we can offer is to star their repos. One goal of this [initiative](https://authorswithcode.com) is to encourage [researchers & practitioners](https://authorswithcode.com) to enable [GitHub sponsorship](https://github.com/sponsors#regions), allowing us to support them directly.
+However, the majority of them (~98%) have not enabled sponsorship yet.  At this point, the only show of support we can offer is to star their repos. 
+
+This initiative pursues two primary objectives: 
+- Firstly, to inspire both individuals and businesses to sponsor [researchers and practitioners](https://authorswithcode.com)
+- Secondly, to encourage [researchers and practitioners](https://authorswithcode.com) to activate [GitHub sponsorship](https://github.com/sponsors#regions), creating a direct channel for us to support their work
+
 
 # Contributions to Open Research & Education
 
