@@ -1,16 +1,16 @@
 
 
 
-> _Machine learning [researchers and practitioners](https://authorswithcode.com) contributing to open source are the **true catalysts** fueling the rapid growth in AI. Their contributions have paved the way for innovations across industries, with many corporations benefiting greatly from this open collaboration._
+> _Machine learning [researchers and practitioners]([https://authorswithcode.com](https://authorswithcode.com/top100/)) contributing to open source are the **true catalysts** fueling the rapid growth in AI. Their contributions have paved the way for innovations across industries, with many corporations benefiting greatly from this open collaboration._
 
-> _It's a strategic investment for businesses leveraging machine learning to directly support these [researchers and practitioners](https://authorswithcode.com). Especially those who share code and models with licenses that encourage widespread use. Presently, while use of open source with permissible licenses primarily requires just attribution from companies, businesses can establish their commitment to innovation and progress by actively supporting the vibrant community that propels their advancements._
+> _It's a strategic investment for businesses leveraging machine learning to directly support these [researchers and practitioners](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E). Especially those who share code and models with licenses that encourage widespread use. Presently, while use of open source with permissible licenses primarily requires just attribution from companies, businesses can establish their commitment to innovation and progress by actively supporting the vibrant community that propels their advancements._
 
  [GitHub sponsorship](https://github.com/sponsors#regions) is one way to directly support [them](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E). 
 However, the majority of them (~98%) have not enabled sponsorship yet.  At this point, the only show of support we can offer is to star their repos. 
 
 This initiative pursues two primary objectives: 
-- Firstly, to inspire both individuals and businesses to sponsor [researchers and practitioners](https://authorswithcode.com)
-- Secondly, to encourage [researchers and practitioners](https://authorswithcode.com) to activate [GitHub sponsorship](https://github.com/sponsors#regions), creating a direct channel for us to support their work
+- Firstly, to inspire both individuals and businesses to sponsor [researchers and practitioners](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E)
+- Secondly, to encourage [researchers and practitioners]([https://authorswithcode.com](https://authorswithcode.com/top100/)) to activate [GitHub sponsorship](https://github.com/sponsors#regions), creating a direct channel for us to support their work
 
 
 # Contributions to Open Research & Education
