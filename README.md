@@ -5,8 +5,8 @@
 
 > _It could be a strategic advantage for businesses leveraging machine learning to directly invest in these [researchers and practitioners](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E). Especially those who share code and models with licenses that encourage widespread use. Presently, while use of open source with permissible licenses primarily requires just attribution from companies, businesses can demonstrate their commitment to innovation and benefit even more by actively investing in the vibrant community that propels their advancements._
 
- [GitHub sponsorship](https://github.com/sponsors#regions) is one way to directly support [them](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E). 
-However, the majority of them (~98%) have not enabled sponsorship yet.  At this point, the only show of support we can offer is to star their repos. 
+ [GitHub sponsorship](https://github.com/sponsors#regions) is one  direct way to accomplish this. 
+However, the majority of them (~98%) have not enabled sponsorship yet.  At this point, all we can do is a symbolic gesture of support by  starring their repos.
 
 This initiative pursues two primary objectives: 
 - Firstly, to inspire both individuals and businesses to sponsor [researchers and practitioners](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E)
