@@ -10,7 +10,7 @@ However, the majority of them (~98%) have not enabled sponsorship yet.  At this 
 
 This initiative pursues two primary objectives: 
 1. To inspire both individuals and businesses to sponsor [researchers and practitioners.](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E)
-2. To create a direct channel for rewarding [researchers and practitioners](https://authorswithcode.com/top100/) and investing in them by encouraging them to activate [GitHub sponsorship](https://github.com/sponsors#regions).
+2. To create a direct channel for both rewarding and investing in them by encouraging them to activate [GitHub sponsorship](https://github.com/sponsors#regions).
 
 We address both of these objectives with an [app](https://authorswithcode.com)  [![app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAWC.svg)](https://authorswithcode.com) that facilitates the discovery of these researchers and simplifies the process of investing in them.
 
