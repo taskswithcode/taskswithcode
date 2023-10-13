@@ -23,7 +23,7 @@ We address both of these objectives with an [app](https://authorswithcode.com)  
 - [![Discover and Compare SOTA models](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCCompare.svg)](https://taskswithcode.com/find_sota_repos/) - _Discover and compare SOTA solutions for tasks with a few keystrokes/clicks_
 
 
- - [![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg)](https://www.taskswithcode.com/salient_object_detection/) -   _**Free APIs** for tasks using SOTA models (with permissive licenses). Please use for evaluation only to avoid overwhelming servers_
+ - [![APIs](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAPI.svg)](https://www.taskswithcode.com/salient_object_detection/) -   _Free APIs for tasks using SOTA models (with permissive licenses). Please use for evaluation only to avoid overwhelming servers_
  
  - [![Apps](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCDemo.svg)](https://taskswithcode.com/sentence_similarity/) - _demo apps hosted on [TWC servers](https://taskswithcode.com/sentence_similarity) and/or on [Hugging Face](https://huggingface.co/taskswithcode)_
  - [![Notebooks](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCNotebook.svg)](https://github.com/taskswithcode/latent-diffusion/blob/main/TWCLatentDiffusion.ipynb) - _notebooks in Google colab_
