@@ -8,7 +8,7 @@
  [GitHub sponsorship](https://github.com/sponsors#regions) is one  direct way to accomplish this. 
 However, the majority of them (~98%) have not enabled sponsorship yet.  At this point, all we can do is a symbolic gesture of support by  starring their repos.
 
-This initiative pursues two primary objectives: 
+AuthorsWithCode pursues two primary objectives: 
 1. To inspire both individuals and businesses to sponsor [researchers and practitioners.](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E)
 2. To create a direct channel for both rewarding and investing in them by encouraging them to activate [GitHub sponsorship](https://github.com/sponsors#regions).
 
