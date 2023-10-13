@@ -1,5 +1,5 @@
 
-### What is AuthorsWithCode?
+### What is the AuthorsWithCode initiative?
 
 > _Machine learning [researchers and practitioners]([https://authorswithcode.com](https://authorswithcode.com/top100/)) contributing to open source are the **true catalysts** fueling the rapid growth in AI. Their contributions have paved the way for innovations across industries, with many corporations benefiting greatly from this open collaboration._
 
