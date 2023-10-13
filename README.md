@@ -17,7 +17,7 @@ We address both of these objectives with an [app](https://authorswithcode.com)  
 ### Other contributions to Open Research & Education
 
 
-- [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://conceptswithcode.com) - _ML concepts explained, accompanied by a notebook and a code walkthrough_
+- [![TWC Shorts](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCShorts.svg)](https://conceptswithcode.com) - **Watch. Walkthrough. Interact.** _ML concepts explained, accompanied by a notebook and a code walkthrough_
 
   
 - [![Discover and Compare SOTA models](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCCompare.svg)](https://taskswithcode.com/find_sota_repos/) - _Discover and compare SOTA solutions for tasks with a few keystrokes/clicks_
