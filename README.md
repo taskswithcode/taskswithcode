@@ -1,7 +1,7 @@
 
 ### What is the AuthorsWithCode initiative?
 
-> _Machine learning [researchers and practitioners]([https://authorswithcode.com](https://authorswithcode.com/top100/)) contributing to open source are the **true catalysts** AI progress. Their contributions have paved the way for innovations across industries, with many corporations benefiting greatly from this open collaboration._
+> _Machine learning [researchers and practitioners]([https://authorswithcode.com](https://authorswithcode.com/top100/)) contributing to open source are the **true catalysts** AI progress. Their contributions have paved the way for innovations across industries, with many corporations benefiting significantly from this open collaboration._
 
 > _It could be a strategic advantage for businesses leveraging machine learning to directly invest in these [researchers and practitioners](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E). Especially those who share code and models with licenses that encourage widespread use. Presently, while use of open source with permissible licenses primarily requires just attribution from companies, businesses can demonstrate their commitment to innovation and benefit even more by actively investing in the community that propels their advancements._
 
