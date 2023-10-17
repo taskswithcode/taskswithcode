@@ -1,6 +1,6 @@
 
 
-We spotlight [Authors with code](https://authorswithcode.com), make it easier to find solutions for [Tasks (With Code)](https://taskswithcode.com/find_sota_repos/), and enable learners to grasp [Concepts With Code](https://conceptswithcode.com). _These initiatives are work in progress_
+We spotlight [Authors With Code](https://authorswithcode.com), make it easier to find solutions for [Tasks (With Code)](https://taskswithcode.com/find_sota_repos/), and enable learners to grasp [Concepts With Code](https://conceptswithcode.com). _These initiatives are work in progress_
 
 
 ### What is the AuthorsWithCode initiative?
