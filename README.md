@@ -1,4 +1,8 @@
 
+
+We spotlight [Authors with code](https://authorswithcode.com), make it easier to find solutions for [Tasks (with code)](https://taskswithcode.com), and enable learners to grasp [Concepts with code](https://conceptswithcode.com). _These initiatives are work in progress_
+
+
 ### What is the AuthorsWithCode initiative?
 
 > _Machine learning [researchers and practitioners]([https://authorswithcode.com](https://authorswithcode.com/top100/)) contributing to open source are the **true catalysts** AI progress. Their contributions have paved the way for innovations across industries, with many corporations benefiting significantly from this open collaboration._
