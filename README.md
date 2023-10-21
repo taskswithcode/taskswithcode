@@ -20,7 +20,7 @@ An auxiliary objective is to fill the current gap in finding both paper and code
 
 We address these objectives with an [app](https://authorswithcode.com)  [![app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAWC.svg)](https://authorswithcode.com) that facilitates the discovery of these contributors and simplifies the process of investing in them.
 
-_Authorswithcode relies on openly published data from paperswithcode, to create an author-centric view by combining it with GitHub data available through APIs._
+_AuthorsWithCode relies on openly published data from paperswithcode, to create an author-centric view by combining it with GitHub data available through APIs._
 
 ### Other contributions to Open Research & Education
 
