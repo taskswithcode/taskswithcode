@@ -16,7 +16,11 @@ AuthorsWithCode pursues two primary objectives:
 1. To inspire both individuals and businesses to sponsor [researchers and practitioners.](https://authorswithcode.com/top100/?choice=Top%20Repo%20Authors%20Open%20for%20Sponsorship%20%F0%9F%92%8E)
 2. To create a direct channel for both rewarding and investing in them by encouraging them to activate [GitHub sponsorship](https://github.com/sponsors#regions).
 
-We address both of these objectives with an [app](https://authorswithcode.com)  [![app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAWC.svg)](https://authorswithcode.com) that facilitates the discovery of these contributors and simplifies the process of investing in them.
+An auxiliary objective is to fill the current gap in finding both paper and code contributions by an author in one place - an author-centric view. This gap is not covered by [Google Scholar](https://scholar.google.com/), which focuses primarily on citations. Additionally, Google Scholar overlooks an important segment that contributes to open-source implementations of papers: practitioners, some of whom have never published a single paper. [Paperswithcode](https://paperswithcode.com/), in contrast, provides a paper-centric view with links to accompanying code, encompassing both researchers and practitioners
+
+We address these objectives with an [app](https://authorswithcode.com)  [![app](https://raw.githubusercontent.com/taskswithcode/image_assets/main/.github/images/TWCAWC.svg)](https://authorswithcode.com) that facilitates the discovery of these contributors and simplifies the process of investing in them.
+
+_Authorswithcode relies on openly published data from paperswithcode, to create an author-centric view by combining it with GitHub data available through APIs._
 
 ### Other contributions to Open Research & Education
 
